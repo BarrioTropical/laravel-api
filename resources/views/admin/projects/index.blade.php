@@ -43,6 +43,7 @@
 
         </tbody>
     </table>
+    
     @include('partials.admin.modal-delete')
 
 @endsection
